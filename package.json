@@ -27,7 +27,7 @@
     "semver": "6.3.0"
   },
   "devDependencies": {
-    "@now/build-utils": "^0.10.0",
+    "@now/build-utils": "^0.10.1",
     "@nuxt/types": "^0.2.15",
     "@nuxtjs/eslint-config": "^1.1.2",
     "@types/execa": "^0.9.0",
@@ -36,8 +36,8 @@
     "@types/node": "^12.7.8",
     "@types/resolve-from": "^5.0.1",
     "@types/semver": "^6.0.2",
-    "@typescript-eslint/eslint-plugin": "^2.3.1",
-    "@typescript-eslint/parser": "^2.3.1",
+    "@typescript-eslint/eslint-plugin": "^2.3.2",
+    "@typescript-eslint/parser": "^2.3.2",
     "codecov": "^3.6.1",
     "eslint": "^6.5.0",
     "eslint-config-standard": "^14.1.0",
